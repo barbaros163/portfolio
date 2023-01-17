@@ -5,6 +5,7 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
+import WorkIcon from "@material-ui/icons/Work";
 
 function Experience() {
   return (
@@ -35,10 +36,10 @@ function Experience() {
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
-          className="vertical-timeline-element--education"
+          className="vertical-timeline-element--work"
           date="2010 - 2014"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
+          icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
             My Random High School, Random Place, Random State
@@ -47,10 +48,10 @@ function Experience() {
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
-          className="vertical-timeline-element--education"
+          className="vertical-timeline-element--work"
           date="2010 - 2014"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
+          icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
             My Random High School, Random Place, Random State

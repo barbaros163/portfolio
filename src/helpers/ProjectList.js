@@ -5,7 +5,7 @@ import Proj4 from "../assets/4.jpg";
 import Proj5 from "../assets/5.jpg";
 import Proj6 from "../assets/6.jpg";
 
-export const projectList = [
+export const ProjectList = [
   {
     name: "Dijkstra Algorithm Visualizer",
     image: Proj1,

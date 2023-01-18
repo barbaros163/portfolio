@@ -12,7 +12,9 @@ function Home() {
           <h2>Hi, My Name is Yasin</h2>
           <div className="prompt">
             <p> A passionate Frontend developer from Anatolien</p>
+
             <LinkedInIcon />
+
             <Email />
             <Github />
           </div>

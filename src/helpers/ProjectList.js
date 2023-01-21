@@ -7,34 +7,48 @@ import Proj6 from "../assets/6.jpg";
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Survey Form",
+    image: Proj4,
+    skills: "HTML, CSS",
+    url: "https://html-netflix.netlify.app/",
+  },
+  {
+    name: "Voltran Page",
+    image: Proj5,
+    skills: "HTML, CSS",
+    url: "https://html-voltran.netlify.app/",
+  },
+  {
+    name: "Google Landing Page",
+    image: Proj6,
+    skills: "HTML, CSS",
+    url: "https://html-google-landing.netlify.app/",
+  },
+
+  {
+    name: "Sass Webseite",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "HTML, CSS, SASS ",
     url: "https://barbaros163.github.io/sass1_website/",
   },
   {
-    name: "Ecommerce Website",
+    name: "Bootstrap Website",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "HTML, CSS, BOOTSTRAP ",
+    url: "https://bootstrap-page-1.netlify.app/",
   },
+
   {
-    name: "Spotify Clone",
-    image: Proj3,
-    skills: "React,Node,js,MongoDB,SpotifyAPI",
-  },
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
-  },
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    skills: "JavaScript,HTML,CSS",
-  },
-  {
-    name: "Mobile Game",
+    name: "Bootstrap Webseite 2",
     image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: "HTML, CSS, BOOTSTRAP",
+    url: "https://bootstrap-page-2.netlify.app/",
+  },
+
+  {
+    name: "React Webseite",
+    image: Proj3,
+    skills: "HTML, CSS, JS, ReactJS",
+    url: "https://barbaros163.github.io/02_Language_Cards_React/",
   },
 ];

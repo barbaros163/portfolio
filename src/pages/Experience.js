@@ -57,10 +57,10 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Front End Developer Bootcamp
+            Front End Developer Kurs
           </h3>
           <p>
-            Online Course Kurs (240 Stunde) mit Zertifikaten (Html, Css,
+            Online Bootcamp (240 Stunden) mit Zertifikaten (Html, Css,
             Javascript und React) erfolgreich abgeschlossen.
           </p>
         </VerticalTimelineElement>

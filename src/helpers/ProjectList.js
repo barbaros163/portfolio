@@ -10,6 +10,7 @@ export const ProjectList = [
     name: "Dijkstra Algorithm Visualizer",
     image: Proj1,
     skills: "JavaScript,HTML,CSS",
+    url: "https://barbaros163.github.io/sass1_website/",
   },
   {
     name: "Ecommerce Website",

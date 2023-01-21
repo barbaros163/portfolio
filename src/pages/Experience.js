@@ -47,7 +47,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             HTML, CSS, and Javascript for Web Developers
           </h3>
-          <p>Online Course Kurs mit Zertifikat erfolgreich abgeschlossen.</p>
+          <p>Online Coursera Kurs mit Zertifikat erfolgreich abgeschlossen.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

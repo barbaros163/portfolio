@@ -12,7 +12,7 @@ const Footer = () => {
         <Email />
         <Github />
       </div>
-      <p>&copy; 2023 digitaldesigns.at </p>
+      <p>&copy; 2023 Yasin Yavuz BA </p>
     </div>
   );
 };

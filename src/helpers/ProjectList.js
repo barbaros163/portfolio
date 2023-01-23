@@ -62,26 +62,26 @@ export const ProjectList = [
   {
     name: "React Tour Places",
     image: Tourplaces,
-    skills: "HTML, CSS, JavaScript, ReactJS",
+    skills: "HTML, CSS, JAVASCRIPT, REACT",
     url: "https://barbaros163.github.io/01_Tour_Places_React/",
   },
   {
     name: "React Language Cards",
     image: Languagecards,
-    skills: "HTML, CSS, JavaScript, ReactJS",
+    skills: "HTML, CSS, JAVASCRIPT, REACT",
     url: "https://barbaros163.github.io/02_Language_Cards_React/",
   },
   {
     name: "React Recipe App",
     image: Recipe,
-    skills: "HTML, CSS, JavaScript, ReactJS",
+    skills: "HTML, CSS, JAVASCRIPT, REACT",
     url: "https://barbaros163.github.io/05_Recipe_App_Solution_react/",
   },
 
   {
     name: "Weather App",
     image: Weatherapp,
-    skills: "HTML, CSS, JavaScript",
+    skills: "HTML, CSS, JAVASCRIPT",
     url: "https://barbaros163.github.io/jQuery_js/weather.html",
   },
 

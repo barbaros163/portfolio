@@ -19,7 +19,7 @@
 
 .about h2 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 80px;
+  font-size: 60px;
   color: #e9d35b;
   height: 50px;
 }
@@ -46,7 +46,6 @@
 
 .skills h1 {
   color: #e9d35b;
-  text-decoration: underline;
 }
 
 .skills .list {

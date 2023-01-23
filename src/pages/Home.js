@@ -7,7 +7,8 @@ function Home() {
     <div className="home">
       <div>
         <div className="about">
-          <h2>Hallo, My Name is Yasin</h2>
+          <h2>Hallo, Mein Name ist Yasin</h2>
+
           <div className="prompt">
             <p> Herzlich Willkommen auf meiner Homepage!</p>
             <p>
@@ -18,6 +19,7 @@ function Home() {
         </div>
         <div className="skills">
           <h1>Skills</h1>
+
           <ol className="list">
             <li className="item">
               <h2>Front-End</h2>

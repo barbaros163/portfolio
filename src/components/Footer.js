@@ -9,10 +9,11 @@ const Footer = () => {
     <div className="footer">
       <div className="socialMedia">
         <LinkedInIcon />
+
         <Email />
         <Github />
       </div>
-      <p>&copy; 2023 Yasin Yavuz BA </p>
+      {/* <p>&copy; 2023 Yasin Yavuz BA </p> */}
     </div>
   );
 };

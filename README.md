@@ -10,7 +10,7 @@ A passionate Front End Developer from Anatolien
 - [Yasin Yavuz](https://github.com/barbaros163)
 
 
-# Milestone_Project_React
+# PORTFOLIO
 ## 🛠 Skills
 HTML, CSS, JAVASCRIPT, REACT
 

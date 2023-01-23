@@ -91,4 +91,8 @@ export const ProjectList = [
     skills: "HTML, CSS, JavaScript",
     url: "https://barbaros163.github.io/digital_clock_js/",
   },
+  {
+    name: "LinkedIn",
+    url: "https://www.linkedin.com/in/yasin-yavuz-/",
+  },
 ];

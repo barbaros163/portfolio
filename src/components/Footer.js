@@ -8,10 +8,25 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <LinkedInIcon />
+        <a
+          href="https://www.linkedin.com/in/yasin-yavuz-/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <LinkedInIcon />
+        </a>
 
-        <Email />
-        <Github />
+        <a href="mailto:barbaros1675@gmail.com?body=My custom mail body">
+          <Email />
+        </a>
+
+        <a
+          href="https://github.com/barbaros163"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Github />
+        </a>
       </div>
       {/* <p>&copy; 2023 Yasin Yavuz BA </p> */}
     </div>

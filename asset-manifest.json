@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcb9bb9e.css",
+    "main.js": "/static/js/main.631eacf2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tour-places.gif": "/static/media/tour-places.c2939dac60f27d194add.gif",
+    "static/media/sass.gif": "/static/media/sass.77c2785b79380fc412d8.gif",
+    "static/media/bootstrap2.gif": "/static/media/bootstrap2.f0c80b45a115276f8317.gif",
+    "static/media/bootstrap1.gif": "/static/media/bootstrap1.f87d5558acf7ad721deb.gif",
+    "static/media/voltran.gif": "/static/media/voltran.61c3b51b699bf13c9517.gif",
+    "static/media/survey.gif": "/static/media/survey.2000386dae28a1fe63c7.gif",
+    "static/media/parallax.gif": "/static/media/parallax.055cf7390a46cecf8f82.gif",
+    "static/media/recipe.gif": "/static/media/recipe.c6658bd3fd43659d4b08.gif",
+    "static/media/language-cards.gif": "/static/media/language-cards.0e154dfa86e2802bdb33.gif",
+    "static/media/digital-clock.gif": "/static/media/digital-clock.f46923f20d9e42a517ac.gif",
+    "static/media/weather_app.gif": "/static/media/weather_app.8d4958039f501e192a53.gif",
+    "static/media/google.png": "/static/media/google.9b8ce9b7791c48e3575f.png",
+    "index.html": "/index.html",
+    "main.dcb9bb9e.css.map": "/static/css/main.dcb9bb9e.css.map",
+    "main.631eacf2.js.map": "/static/js/main.631eacf2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb9bb9e.css",
+    "static/js/main.631eacf2.js"
+  ]
+}

@@ -1,7 +1,5 @@
 import React from "react";
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
-import Email from "@material-ui/icons/Email";
-import Github from "@material-ui/icons/GitHub";
+
 import "../styles/Home.css";
 
 function Home() {
@@ -9,14 +7,13 @@ function Home() {
     <div className="home">
       <div>
         <div className="about">
-          <h2>Hi, My Name is Yasin</h2>
+          <h2>Hallo, My Name is Yasin</h2>
           <div className="prompt">
-            <p> A passionate Frontend developer from Anatolien</p>
-
-            <LinkedInIcon />
-
-            <Email />
-            <Github />
+            <p> Herzlich Willkommen auf meiner Homepage!</p>
+            <p>
+              Ich beschäftige mich seit 4 Jahren in dem Bereich Web Development.
+            </p>
+            <p>Vielen Dank für Ihre Besuch.</p>
           </div>
         </div>
         <div className="skills">

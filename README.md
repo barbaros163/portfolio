@@ -43,7 +43,7 @@ To run tests, run the following command
 
 
 ## Demo
-https://barbaros163.github.io/portfolio/
+https://published-projects.netlify.app/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com

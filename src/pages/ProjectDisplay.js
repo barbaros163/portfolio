@@ -1,4 +1,3 @@
-import React from "react";
 import { useParams } from "react-router-dom";
 import { ProjectList } from "../helpers/ProjectList";
 
@@ -10,6 +9,7 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1>{project.name}</h1>
+
       <a href={project.url} target="_blank" rel="noopener noreferrer">
         <img src={project.image} alt="developer" />
       </a>

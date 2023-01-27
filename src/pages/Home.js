@@ -1,6 +1,7 @@
-import React from "react";
-
 import "../styles/Home.css";
+
+import Box from "@mui/material/Box";
+import LinearProgress from "@mui/material/LinearProgress";
 
 function Home() {
   return (
@@ -19,7 +20,9 @@ function Home() {
         </div>
         <div className="skills">
           <h1>Skills</h1>
-
+          <Box sx={{ width: "100%" }}>
+            <LinearProgress />
+          </Box>
           <ol className="list">
             <li className="item">
               <h2>Front-End</h2>

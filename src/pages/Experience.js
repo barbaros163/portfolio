@@ -11,7 +11,7 @@ function Experience() {
   return (
     <div className="experience">
       <VerticalTimeline lineColor="#3e497a">
-        {/* <VerticalTimelineElement
+        <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2006 - 2010"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
@@ -24,9 +24,9 @@ function Experience() {
             Fachrichtung Informatik / Web Programmierung. Gewerbeberechtigung
             mit Erfolg erhalten.
           </p>
-        </VerticalTimelineElement> */}
+        </VerticalTimelineElement>
 
-        {/* <VerticalTimelineElement
+        <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2013 - 2021"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
@@ -36,7 +36,7 @@ function Experience() {
             Universität Wien / Politikwissenschaft
           </h3>
           <p>Bachelorstudium erfolgreich abgeschlossen.</p>
-        </VerticalTimelineElement> */}
+        </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"

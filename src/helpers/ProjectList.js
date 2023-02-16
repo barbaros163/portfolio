@@ -9,6 +9,7 @@ import Languagecards from "../assets/language-cards.gif";
 import Recipe from "../assets/recipe.gif";
 import Weatherapp from "../assets/weather_app.gif";
 import Digitalclock from "../assets/digital-clock.gif";
+import Checkout from "../assets/checkout.gif";
 
 export const ProjectList = [
   {
@@ -82,5 +83,12 @@ export const ProjectList = [
     image: Digitalclock,
     skills: "HTML, CSS, JavaScript",
     url: "https://barbaros163.github.io/digital_clock_js/",
+  },
+
+  {
+    name: "Checkout Page",
+    image: Checkout,
+    skills: "HTML, CSS, JavaScript",
+    url: "https://barbaros163.github.io/01_checkout_page_js/",
   },
 ];

@@ -10,6 +10,7 @@ import Recipe from "../assets/recipe.gif";
 import Weatherapp from "../assets/weather_app.gif";
 import Digitalclock from "../assets/digital-clock.gif";
 import Checkout from "../assets/checkout.gif";
+import Todo from "../assets/todo.gif";
 
 export const ProjectList = [
   {
@@ -90,5 +91,12 @@ export const ProjectList = [
     image: Checkout,
     skills: "HTML, CSS, JavaScript",
     url: "https://barbaros163.github.io/01_checkout_page_js/",
+  },
+
+  {
+    name: "Todo App",
+    image: Todo,
+    skills: "HTML, CSS, JavaScript",
+    url: "https://barbaros163.github.io/todo_solution_js/",
   },
 ];

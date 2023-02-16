@@ -33,7 +33,7 @@ function Home() {
             </li>
             <li className="item">
               <h2>Back-End</h2>
-              <span>NodeJS, Firebase</span>
+              <span> Firebase</span>
             </li>
             <li className="item">
               <h2>Languages</h2>

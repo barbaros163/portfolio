@@ -1,4 +1,3 @@
-import Voltran from "../assets/voltran.gif";
 import Survey from "../assets/survey.gif";
 import Google from "../assets/google.png";
 import Parallax from "../assets/parallax.gif";
@@ -13,23 +12,16 @@ import Digitalclock from "../assets/digital-clock.gif";
 
 export const ProjectList = [
   {
-    name: "Voltran Page",
-    image: Voltran,
+    name: "Google Landing Page",
+    image: Google,
     skills: "HTML, CSS",
-    url: "https://html-voltran.netlify.app/",
+    url: "https://html-google-landing.netlify.app/",
   },
   {
     name: "Survey Form",
     image: Survey,
     skills: "HTML, CSS",
     url: "https://html-netflix.netlify.app/",
-  },
-
-  {
-    name: "Google Landing Page",
-    image: Google,
-    skills: "HTML, CSS",
-    url: "https://html-google-landing.netlify.app/",
   },
 
   {

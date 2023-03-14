@@ -74,6 +74,13 @@ export const ProjectList = [
   },
 
   {
+    name: "React Firecontact App",
+    image: Firecontact,
+    skills: "HTML, CSS, JavaScript",
+    url: "https://barbaros163.github.io/07_fire_contact_solution_react/",
+  },
+
+  {
     name: "Weather App",
     image: Weatherapp,
     skills: "HTML, CSS, JAVASCRIPT",
@@ -99,11 +106,5 @@ export const ProjectList = [
     image: Todo,
     skills: "HTML, CSS, JavaScript",
     url: "https://barbaros163.github.io/todo_solution_js/",
-  },
-  {
-    name: "Firecontact App",
-    image: Firecontact,
-    skills: "HTML, CSS, JavaScript",
-    url: "https://barbaros163.github.io/07_fire_contact_solution_react/",
   },
 ];

@@ -11,6 +11,7 @@ import Weatherapp from "../assets/weather_app.gif";
 import Digitalclock from "../assets/digital-clock.gif";
 import Checkout from "../assets/checkout.gif";
 import Todo from "../assets/todo.gif";
+import Firecontact from "../assets/firecontact.gif";
 
 export const ProjectList = [
   {
@@ -98,5 +99,11 @@ export const ProjectList = [
     image: Todo,
     skills: "HTML, CSS, JavaScript",
     url: "https://barbaros163.github.io/todo_solution_js/",
+  },
+  {
+    name: "Firecontact App",
+    image: Firecontact,
+    skills: "HTML, CSS, JavaScript",
+    url: "https://barbaros163.github.io/07_fire_contact_solution_react/",
   },
 ];

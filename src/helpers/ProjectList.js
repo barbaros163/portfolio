@@ -12,6 +12,7 @@ import Digitalclock from "../assets/digital-clock.gif";
 import Checkout from "../assets/checkout.gif";
 import Todo from "../assets/todo.gif";
 import Firecontact from "../assets/firecontact.gif";
+import Movieapp from "../assets/movie-app.gif";
 
 export const ProjectList = [
   {
@@ -78,6 +79,13 @@ export const ProjectList = [
     image: Firecontact,
     skills: "HTML, CSS, JavaScript",
     url: "https://barbaros163.github.io/07_fire_contact_solution_react/",
+  },
+
+  {
+    name: "React Movie App",
+    image: Movieapp,
+    skills: "HTML, CSS, JavaScript",
+    url: "https://barbaros163.github.io/06_movie_app_react/",
   },
 
   {

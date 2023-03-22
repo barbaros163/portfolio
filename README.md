@@ -21,7 +21,7 @@ HTML, CSS, JAVASCRIPT
 
 ## Tech Stack
 
-**Client:** React, Redux, Mui
+**Client:** React, React Three Fiber, Tailwindcss, Framer Motion for Animation in React 
 
 **Server:** Node
 
@@ -51,24 +51,6 @@ Start the server
 ```bash
   npm run start
 ```
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 
 ## Feedback

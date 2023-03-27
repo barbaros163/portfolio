@@ -23,7 +23,7 @@ const Footer = () => {
     <div
       className={`${
         styles.paddingX
-      } w-full flex justify-between items-center py-5 fixed bottom-0 z-20 ${
+      } w-full flex justify-evenly items-center py-5 fixed bottom-0 z-20 ${
         scrolled ? "bg-primary" : "bg-transparent"
       }`}
     >

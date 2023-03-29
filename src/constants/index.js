@@ -25,6 +25,22 @@ import {
   carrent,
 } from "../assets";
 
+import clarusway from "../assets/company/clarusway.png";
+import john from "../assets/company/john.png";
+import survey from "../assets/survey.gif";
+import parallax from "../assets/parallax.gif";
+import sass from "../assets/sass.gif";
+import bootstrap1 from "../assets/bootstrap1.gif";
+import bootstrap2 from "../assets/bootstrap2.gif";
+import tourplaces from "../assets/tour-places.gif";
+import languagecards from "../assets/language-cards.gif";
+import recipe from "../assets/recipe.gif";
+import firecontact from "../assets/firecontact.gif";
+import movieapp from "../assets/movie-app.gif";
+import weather from "../assets/weather_app.gif";
+import checkout from "../assets/checkout.gif";
+import todo from "../assets/todo.gif";
+
 export const navLinks = [
   {
     id: "about",
@@ -107,8 +123,8 @@ const experiences = [
   {
     title: "HTML, CSS, and Javascript for Web Developers",
     company_name: "Coursera / Johns Hopkins University",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: john,
+    iconBg: "#fff",
     date: "August 2020 - Februar 2021",
     points: [
       "Developing and maintaining web applications using Html, Css and Javascript.",
@@ -118,10 +134,10 @@ const experiences = [
     ],
   },
   {
-    title: "HTML, CSS, Javascript and React for Web Developers",
+    title: "Frontend Developer",
     company_name: "Bootcamp / Clarusway",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    icon: clarusway,
+    iconBg: "#fff",
     date: "July 2022 - December 2022",
     points: [
       "Worked with a team of 5 developers to develop websites and applications adhering to deadlines %100",
@@ -205,7 +221,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: carrent,
+    image: survey,
     source_code_link: "https://html-netflix.netlify.app/",
   },
   {
@@ -226,7 +242,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: jobit,
+    image: parallax,
     source_code_link:
       "https://barbaros163.github.io/20.08.2022_parallax_website/",
   },
@@ -248,7 +264,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: sass,
     source_code_link: "https://barbaros163.github.io/sass1_website/",
   },
   {
@@ -269,7 +285,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: bootstrap1,
     source_code_link: "https://bootstrap-page-1.netlify.app/",
   },
   {
@@ -290,7 +306,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: bootstrap2,
     source_code_link: "https://bootstrap-page-2.netlify.app/",
   },
   {
@@ -311,7 +327,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: tourplaces,
     source_code_link: "https://barbaros163.github.io/01_Tour_Places_React/",
   },
   {
@@ -332,7 +348,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: languagecards,
     source_code_link: "https://barbaros163.github.io/02_Language_Cards_React/",
   },
   {
@@ -353,7 +369,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: recipe,
     source_code_link:
       "https://barbaros163.github.io/05_Recipe_App_Solution_react/",
   },
@@ -375,7 +391,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: firecontact,
     source_code_link:
       "https://barbaros163.github.io/07_fire_contact_solution_react/",
   },
@@ -397,7 +413,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: movieapp,
     source_code_link: "https://barbaros163.github.io/06_movie_app_react/",
   },
   {
@@ -418,7 +434,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: weather,
     source_code_link: "https://barbaros163.github.io/jQuery_js/weather.html",
   },
   {
@@ -439,7 +455,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: checkout,
     source_code_link: "https://barbaros163.github.io/01_checkout_page_js/",
   },
   {
@@ -460,7 +476,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: todo,
     source_code_link: "https://barbaros163.github.io/todo_solution_js/",
   },
 ];

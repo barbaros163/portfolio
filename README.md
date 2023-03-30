@@ -14,7 +14,7 @@ A passionate Front End Developer from Anatolien
 
 
 ## Demo
-Coming Soon
+https://published-projects.netlify.app/
 ## 🛠 Skills
 HTML, CSS, JAVASCRIPT
 

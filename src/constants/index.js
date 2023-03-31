@@ -206,7 +206,7 @@ const projects = [
   {
     name: "Survey Form",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A simple functionally Netflix Survey Form. With this project, following topics are to be covered. HTML Forms-Input Types I HTML Form Elements I CSS Colors-Border Properties I CSS Margins-Padding I Css Properties for Texts-Font Families-Links.",
     tags: [
       {
         name: "html",
@@ -227,7 +227,7 @@ const projects = [
   {
     name: "Parallax Webseite",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A simple functionally Landing Page. With this project, following topics are to be covered. HTML I List Properties I Overflow Property-The float Property-Opacity / Transparency-Units in CSS I CSS Setting height and width-CSS Outline-CSS Combinators.",
     tags: [
       {
         name: "html",
@@ -249,7 +249,7 @@ const projects = [
   {
     name: "Sass Webseite",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Simple Sass Portfolio Webseite. With this project, following topics are to be covered. HTML I CSS and Sass I What is Sass? Sass stands for Syntactically Awesome Stylesheet I Sass is an extension to CSS I Sass is a Css pre-processor. For more information about Sass visit the Sass official Webseite. ",
     tags: [
       {
         name: "html",
@@ -270,7 +270,7 @@ const projects = [
   {
     name: "Bootstrap Webseite",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A simple Bootstrap One Page Template. With this project, following topics are to be covered. HTML I CSS and Bootstrap. What is Bootstrap and why it is used? Because it is on of the most popular CSS Framework for developing responsive and mobile-first websites. It is free and open source. ",
     tags: [
       {
         name: "html",
@@ -291,7 +291,7 @@ const projects = [
   {
     name: "Bootstrap Webseite 2",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This is 2. Bootstrap One Page Template. With this project, following topics are to be covered. HTML I CSS and Bootstrap. There are a lot of differences between previos Bootstrap Template and this Template. For Example Topfixed Navbar ",
     tags: [
       {
         name: "html",
@@ -312,7 +312,7 @@ const projects = [
   {
     name: "React Tour Places",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Tour Project App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite. ",
     tags: [
       {
         name: "html",
@@ -333,7 +333,7 @@ const projects = [
   {
     name: "React Language Cards",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Languages Cards App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
     tags: [
       {
         name: "html",
@@ -354,7 +354,7 @@ const projects = [
   {
     name: "React Recipe App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Recipe App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
     tags: [
       {
         name: "html",
@@ -376,7 +376,7 @@ const projects = [
   {
     name: "React Firecontact App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Firecontact App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS and Google Firebase. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
     tags: [
       {
         name: "html",
@@ -398,7 +398,7 @@ const projects = [
   {
     name: "React Movie App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Movie App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS and Google Firebase. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
     tags: [
       {
         name: "html",
@@ -419,7 +419,7 @@ const projects = [
   {
     name: "Weather App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Weather App. The Skills are HTML I CSS I JavaScript. This Project aims to display current weather data of searched city around the world with fetching Weather Api data. With this Project, you will be able to; analyze a problem, create a weather condition app populated with a real weather api.",
     tags: [
       {
         name: "html",
@@ -440,7 +440,7 @@ const projects = [
   {
     name: "Checkout Page",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Checkout Page.  The Skills are HTML I CSS I JavaScript. This Project aims to create a real checkout page of e-commerce webseite. With this Project, you will be able to; demonstrate the knowledge of algorithmic design principles for dynamic calculation of product's cart. ",
     tags: [
       {
         name: "html",
@@ -461,7 +461,7 @@ const projects = [
   {
     name: "Todo App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A simple To-Do App. The Skills are HTML I CSS I JavaScript The Users can click plus / add button on to-do app and they can increase add new to-do task and they can also delete a to-do task. They can mark the selected to-do task as done and count of uncompleted task decrease 1.  ",
     tags: [
       {
         name: "html",

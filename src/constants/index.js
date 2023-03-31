@@ -249,7 +249,7 @@ const projects = [
   {
     name: "Sass Webseite",
     description:
-      "A Simple Sass Portfolio Webseite. With this project, following topics are to be covered. HTML I CSS and Sass I What is Sass? Sass stands for Syntactically Awesome Stylesheet I Sass is an extension to CSS I Sass is a Css pre-processor. For more information about Sass visit the Sass official Webseite. ",
+      "A Simple Sass Portfolio Webseite. With this project, following topics are to be covered. HTML I CSS and Sass I What is Sass? Sass stands for Syntactically Awesome Stylesheet. For more information about Sass visit the Sass official Webseite. ",
     tags: [
       {
         name: "html",
@@ -270,7 +270,7 @@ const projects = [
   {
     name: "Bootstrap Webseite",
     description:
-      "A simple Bootstrap One Page Template. With this project, following topics are to be covered. HTML I CSS and Bootstrap. What is Bootstrap and why it is used? Because it is on of the most popular CSS Framework for developing responsive and mobile-first websites. It is free and open source. ",
+      "A simple Bootstrap One Page Template. The Skills are HTML I CSS I JavaScript. What is Bootstrap? Bootstrap is one of the most popular CSS Framework for developing responsive and mobile-first websites. It is free and open source. ",
     tags: [
       {
         name: "html",
@@ -376,7 +376,7 @@ const projects = [
   {
     name: "React Firecontact App",
     description:
-      "A Firecontact App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS and Google Firebase. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
+      "A Firecontact App. The Skills are HTML I CSS I JavaScript. Database: Google Firebase. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
     tags: [
       {
         name: "html",
@@ -398,7 +398,7 @@ const projects = [
   {
     name: "React Movie App",
     description:
-      "A Movie App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS and Google Firebase. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
+      "A Movie App. With this project, following topics are to be covered. HTML I CSS I JavaScript I ReactJS. Database: Google Firebase. What is React and why use it? React allows you to interface with other libraries and frameworks. For more information visit the React official Webseite.",
     tags: [
       {
         name: "html",
